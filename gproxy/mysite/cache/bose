@@ -1,0 +1,385 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Bose | Better Sound Through Research", 
+            "displayLink": "www.bose.com", 
+            "htmlTitle": "<b>Bose</b> | Better Sound Through Research", 
+            "formattedUrl": "https://www.bose.com/", 
+            "htmlFormattedUrl": "https://www.<b>bose</b>.com/", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg", 
+                        "og:description": "The official Bose e-commerce website features information about Bose consumer electronics products including sound systems, home audio and home entertainment systems, and stereo speakers. Bose.com also features information about Bose Corporation services, technologies and electronic products for professionals.", 
+                        "og:title": "Bose | Better Sound Through Research", 
+                        "viewport": "width=device-width, initial-scale=1"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "310", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGWA6JntmgnBdTjn9SUQEFmPQaGDFOKeJGujJLJcJRzpBiAeLgz-8MJKK8", 
+                        "height": "163"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The official Bose e-commerce website features information about Bose consumer \nelectronics products including sound systems, home audio and home\u00a0...", 
+            "htmlSnippet": "The official <b>Bose</b> e-commerce website features information about <b>Bose</b> consumer <br>\nelectronics products including sound systems, home audio and home&nbsp;...", 
+            "link": "https://www.bose.com/", 
+            "cacheId": "vrdsK0Jg0kgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bose headphones", 
+            "displayLink": "www.bose.com", 
+            "htmlTitle": "<b>Bose</b> headphones", 
+            "formattedUrl": "https://www.bose.com/en_us/products/headphones.html", 
+            "htmlFormattedUrl": "https://www.<b>bose</b>.com/en_us/products/headphones.html", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg", 
+                        "og:description": "Enjoy clear, noise cancelling headphones, aviation headsets, sports earphones, conversation-enhancing headphones and wireless headphones with world-class performance and comfort. Choose from around-ear, in-ear, wired and wireless products that bring you closer to the music you love.", 
+                        "og:title": "Bose headphones", 
+                        "viewport": "width=device-width, initial-scale=1"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "310", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGWA6JntmgnBdTjn9SUQEFmPQaGDFOKeJGujJLJcJRzpBiAeLgz-8MJKK8", 
+                        "height": "163"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Enjoy clear, noise cancelling headphones, aviation headsets, sports earphones, \nconversation-enhancing headphones and wireless headphones with\u00a0...", 
+            "htmlSnippet": "Enjoy clear, noise cancelling headphones, aviation headsets, sports earphones, <br>\nconversation-enhancing headphones and wireless headphones with&nbsp;...", 
+            "link": "https://www.bose.com/en_us/products/headphones.html", 
+            "cacheId": "sLCbAWAgxWUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bose Speakers", 
+            "displayLink": "www.bose.com", 
+            "htmlTitle": "<b>Bose</b> Speakers", 
+            "formattedUrl": "https://www.bose.com/en_us/products/speakers.html", 
+            "htmlFormattedUrl": "https://www.<b>bose</b>.com/en_us/products/speakers.html", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg", 
+                        "og:description": "Choose from the best in Bose speakers. Discover compact, wireless BLUETOOTH and Wi-Fi speakers like SoundLink and SoundTouch, powerful home theater systems and stereo speakers. Bose gives you powerful performance and versatile designs at home and on the go.", 
+                        "og:title": "Bose Speakers", 
+                        "viewport": "width=device-width, initial-scale=1"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "310", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGWA6JntmgnBdTjn9SUQEFmPQaGDFOKeJGujJLJcJRzpBiAeLgz-8MJKK8", 
+                        "height": "163"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Choose from the best in Bose speakers. Discover compact, wireless \nBLUETOOTH and Wi-Fi speakers like SoundLink and SoundTouch, powerful \nhome theater\u00a0...", 
+            "htmlSnippet": "Choose from the best in <b>Bose</b> speakers. Discover compact, wireless <br>\nBLUETOOTH and Wi-Fi speakers like SoundLink and SoundTouch, powerful <br>\nhome theater&nbsp;...", 
+            "link": "https://www.bose.com/en_us/products/speakers.html", 
+            "cacheId": "biJpHfij4Y4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bose Product Support", 
+            "displayLink": "www.bose.com", 
+            "htmlTitle": "<b>Bose</b> Product Support", 
+            "formattedUrl": "https://www.bose.com/en_us/support.html", 
+            "htmlFormattedUrl": "https://www.<b>bose</b>.com/en_us/support.html", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg", 
+                        "og:title": "Bose Product Support", 
+                        "viewport": "width=device-width, initial-scale=1"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "310", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGWA6JntmgnBdTjn9SUQEFmPQaGDFOKeJGujJLJcJRzpBiAeLgz-8MJKK8", 
+                        "height": "163"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "What type of product do you need help with? Docking Speakers CD/Radio \nEarphones Over-ear Headphones Aviation Headsets 5-speaker home theater\u00a0...", 
+            "htmlSnippet": "What type of product do you need help with? Docking Speakers CD/Radio <br>\nEarphones Over-ear Headphones Aviation Headsets 5-speaker home theater&nbsp;...", 
+            "link": "https://www.bose.com/en_us/support.html", 
+            "cacheId": "a3e7qA7QmZ0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Contact Us", 
+            "displayLink": "www.bose.com", 
+            "htmlTitle": "Contact Us", 
+            "formattedUrl": "https://www.bose.com/en_us/contact_us.html", 
+            "htmlFormattedUrl": "https://www.<b>bose</b>.com/en_us/contact_us.html", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg", 
+                        "og:description": "Contact Bose customer service professionals by phone or email about audio solutions for your home, business or automobile, as well as media inquiries.", 
+                        "og:title": "Contact Us", 
+                        "viewport": "width=device-width, initial-scale=1"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "310", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGWA6JntmgnBdTjn9SUQEFmPQaGDFOKeJGujJLJcJRzpBiAeLgz-8MJKK8", 
+                        "height": "163"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Contact Bose customer service professionals by phone or email about audio \nsolutions for your home, business or automobile, as well as media inquiries.", 
+            "htmlSnippet": "Contact <b>Bose</b> customer service professionals by phone or email about audio <br>\nsolutions for your home, business or automobile, as well as media inquiries.", 
+            "link": "https://www.bose.com/en_us/contact_us.html", 
+            "cacheId": "B7pSCEEiQM0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bose | Store Locator", 
+            "displayLink": "www.bose.com", 
+            "htmlTitle": "<b>Bose</b> | Store Locator", 
+            "formattedUrl": "https://www.bose.com/en_us/locations/", 
+            "htmlFormattedUrl": "https://www.<b>bose</b>.com/en_us/locations/", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "fragment": "!", 
+                        "og:image": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg", 
+                        "og:title": "brickworkApp", 
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=6"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "310", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGWA6JntmgnBdTjn9SUQEFmPQaGDFOKeJGujJLJcJRzpBiAeLgz-8MJKK8", 
+                        "height": "163"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Find your nearest Bose store. ... 15 miles away. Closes at9:00PM. Bose Store. \nBrea. Location. 1012 Brea Mall Way Space 1012. Brea, CA 92821, US. Hours\u00a0...", 
+            "htmlSnippet": "Find your nearest <b>Bose</b> store. ... 15 miles away. Closes at9:00PM. <b>Bose</b> Store. <br>\nBrea. Location. 1012 Brea Mall Way Space 1012. Brea, CA 92821, US. Hours&nbsp;...", 
+            "link": "https://www.bose.com/en_us/locations/", 
+            "cacheId": "0QgxZudpjOMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Military Applications", 
+            "displayLink": "www.bose.com", 
+            "htmlTitle": "Military Applications", 
+            "formattedUrl": "https://www.bose.com/en_us/military.html", 
+            "htmlFormattedUrl": "https://www.<b>bose</b>.com/en_us/military.html", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg", 
+                        "og:description": "Learn about active noise reduction headsets from Bose that result in clearer audio to increase mission effectiveness.", 
+                        "og:title": "Military Applications", 
+                        "viewport": "width=device-width, initial-scale=1"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "310", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGWA6JntmgnBdTjn9SUQEFmPQaGDFOKeJGujJLJcJRzpBiAeLgz-8MJKK8", 
+                        "height": "163"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Learn about active noise reduction headsets from Bose that result in clearer \naudio to increase mission effectiveness.", 
+            "htmlSnippet": "Learn about active noise reduction headsets from <b>Bose</b> that result in clearer <br>\naudio to increase mission effectiveness.", 
+            "link": "https://www.bose.com/en_us/military.html", 
+            "cacheId": "Xaq3-apuBRwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bose Professional", 
+            "displayLink": "www.bose.com", 
+            "htmlTitle": "<b>Bose</b> Professional", 
+            "formattedUrl": "https://www.bose.com/en_us/professional.html", 
+            "htmlFormattedUrl": "https://www.<b>bose</b>.com/en_us/professional.html", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg", 
+                        "og:description": "Learn about Bose professional products for business installations, including loudspeakers and sound systems for music and speech.", 
+                        "og:title": "Bose Professional", 
+                        "viewport": "width=device-width, initial-scale=1"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "310", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGWA6JntmgnBdTjn9SUQEFmPQaGDFOKeJGujJLJcJRzpBiAeLgz-8MJKK8", 
+                        "height": "163"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Learn about Bose professional products for business installations, including \nloudspeakers and sound systems for music and speech.", 
+            "htmlSnippet": "Learn about <b>Bose</b> professional products for business installations, including <br>\nloudspeakers and sound systems for music and speech.", 
+            "link": "https://www.bose.com/en_us/professional.html", 
+            "cacheId": "2oHWSRpZxrsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Product registration", 
+            "displayLink": "www.bose.com", 
+            "htmlTitle": "Product registration", 
+            "formattedUrl": "https://www.bose.com/en_us/support/product_registration.html", 
+            "htmlFormattedUrl": "https://www.<b>bose</b>.com/en_us/support/product_registration.html", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg", 
+                        "og:description": "Register your Bose product to ensure you receive any applicable software or product updates. Just select your product from the list of categories and fill out our online form.", 
+                        "og:title": "Product registration", 
+                        "viewport": "width=device-width, initial-scale=1"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "310", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGWA6JntmgnBdTjn9SUQEFmPQaGDFOKeJGujJLJcJRzpBiAeLgz-8MJKK8", 
+                        "height": "163"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Register your Bose product to ensure you receive any applicable software or \nproduct updates. Just select your product from the list of categories and fill out our\n\u00a0...", 
+            "htmlSnippet": "Register your <b>Bose</b> product to ensure you receive any applicable software or <br>\nproduct updates. Just select your product from the list of categories and fill out our<br>\n&nbsp;...", 
+            "link": "https://www.bose.com/en_us/support/product_registration.html", 
+            "cacheId": "XBKQnlxEXcoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Speakers Outlet | Bose", 
+            "displayLink": "www.bose.com", 
+            "htmlTitle": "Speakers Outlet | <b>Bose</b>", 
+            "formattedUrl": "https://www.bose.com/en_us/products/speakers_outlet.html", 
+            "htmlFormattedUrl": "https://www.<b>bose</b>.com/en_us/products/speakers_outlet.html", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg", 
+                        "og:description": "Shop Bose speaker outlet deals. The better sound and innovation you expect from Bose, at a better value.", 
+                        "og:title": "Speakers Outlet | Bose", 
+                        "viewport": "width=device-width, initial-scale=1"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "310", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGWA6JntmgnBdTjn9SUQEFmPQaGDFOKeJGujJLJcJRzpBiAeLgz-8MJKK8", 
+                        "height": "163"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://static.bose.com/etc/designs/bose/base2016/design/images/bose_logo_white_on_black.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Shop Bose speaker outlet deals. The better sound and innovation you expect \nfrom Bose, at a better value.", 
+            "htmlSnippet": "Shop <b>Bose</b> speaker outlet deals. The better sound and innovation you expect <br>\nfrom <b>Bose</b>, at a better value.", 
+            "link": "https://www.bose.com/en_us/products/speakers_outlet.html", 
+            "cacheId": "bJyPH6W5Lw0J"
+        }
+    ], 
+    "context": {
+        "title": "gproxy"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - bose", 
+                "safe": "off", 
+                "searchTerms": "bose", 
+                "startIndex": 1, 
+                "cx": "011651463339030237912:enjmhlpz0zu", 
+                "inputEncoding": "utf8", 
+                "totalResults": "59100"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - bose", 
+                "safe": "off", 
+                "searchTerms": "bose", 
+                "startIndex": 11, 
+                "cx": "011651463339030237912:enjmhlpz0zu", 
+                "inputEncoding": "utf8", 
+                "totalResults": "59100"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.39", 
+        "formattedTotalResults": "59,100", 
+        "totalResults": "59100", 
+        "searchTime": 0.387838
+    }
+}
