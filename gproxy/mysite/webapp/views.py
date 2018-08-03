@@ -6,6 +6,7 @@ import json
 from googleapiclient.discovery import build
 from django.shortcuts import render
 from django.http import HttpResponse, HttpResponseRedirect
+import os
 #from webapp import fileiterwrapper
 
 # Create your views here.
@@ -23,6 +24,8 @@ def search(token):
     if not token:
        return HttpResponse("Welcome to Proxy Search Page")
 
+    #1. Get cached page from memory hash
+    #  ....
     #TODO: Add Redis or some memory based cache manager to get a cached path
     #      Also need to have an evict policy of both the memory cache and the
     #      cached file. Need a cachemanger + shared storage
@@ -42,7 +45,7 @@ def search(token):
     
 
 def cacheWrite(response, token):
-    cachepath = "mysite/cache/" + token #THIS IS A HACK. Need a storage/cache system
+    cachepath = "cache/" + token 
     file = open(cachepath, "w+")
     file.write(response)
     file.close()
@@ -54,7 +57,11 @@ def cacheWrite(response, token):
 #Sample code courtesy: https://github.com/google/google-api-python-client/blob/master/samples/customsearch/main.py
 def search3(token):
     pprint.pprint(token)
+
+    #TODO - Use google service account and GOOGLE_APPLICATION_CREDENTIALS 
+    #https://cloud.google.com/docs/authentication/getting-started
     service = build("customsearch", "v1", developerKey="SECRET")
+
     pprint.pprint(type(service))
     res = service.cse().list(
           q=token,

@@ -36,6 +36,23 @@ COPY apache/conf/apache2.conf /etc/apache2/apache2.conf
 COPY apache/conf/ports.conf /etc/apache2/ports.conf
 COPY gproxy/mysite /var/www/mysite 
 
+#Enable SSL
+RUN a2enmod ssl
+COPY apache/certs/server.crt /etc/ssl/certs/server.crt
+COPY apache/certs/server.key /etc/ssl/private/server.key
+CMD  "chmod" "640" "/etc/ssl/private/server.key"
+CMD  "chmod" "644" "/etc/ssl/certs/server.crt"
+COPY apache/conf/conf-available/servername.conf /etc/apache2/conf-available
+COPY apache/conf/sites-available/localhost.conf /etc/apache2/sites-available
+RUN  a2enconf servername
+RUN  a2ensite localhost
+
+#RUN  "groupadd" "varwwwusers"
+#RUN  "adduser" "www-data" "varwwwusers"
+#RUN  "chgrp" "-R" "varwwwusers" "/var/www/mysite/cache"
+#RUN  "chmod" "-R" 760 "/var/www/mysite/cache"
+
+
 
 #Clean up.
 RUN rm -rf /installdata/*
@@ -44,7 +61,7 @@ RUN rm -rf /installdata/*
 EXPOSE 8080
  
 # Launch Apache
-WORKDIR /var/www
+WORKDIR /var/www/mysite
 CMD ["/usr/sbin/apache2ctl", "stop"]
 CMD ["/usr/sbin/apache2ctl", "-DFOREGROUND"]
 
